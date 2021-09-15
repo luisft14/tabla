@@ -39,3 +39,69 @@
 #formulario{
   margin-top: 30px;
 }
+#tabla{
+  color: black;
+  border: black 2px solid;
+  margin-top: 30px;
+  width: 30px;
+  height: 30px;
+}
+#imagen{
+  width: 30px;
+  height: 30px;
+}
+td{
+  border: black 2px solid;
+   width: 30px;
+  height: 30px;
+}
+tr{
+  border: black 2px solid;
+}
+#cajaTiburon{
+  border: red 2px solid;
+  width: 180px;
+  height: 100px;
+  float: left;
+  margin-top: 100px;
+  margin-right: 20px;
+
+
+}
+#cajaPerro{
+  border: red 2px solid;
+  width: 180px;
+  height: 100px;
+  float: left;
+   margin-top: 100px;
+   margin-right: 20px;
+
+}
+#cajaTigre{
+  border: red 2px solid;
+  width: 180px;
+  height: 100px;
+  float: left;
+   margin-top: 100px;
+   margin-right: 20px;
+
+}
+#cajaTortuga{
+  border: red 2px solid;
+  width: 180px;
+  height: 100px;
+  float: left;
+   margin-top: 100px;
+   margin-right: 20px;
+
+}
+#cajaOso{
+  border: red 2px solid;
+  width: 180px;
+  height: 100px;
+  margin-top: 100px;
+  float: left;
+  margin-right: 20px;
+
+}
+
